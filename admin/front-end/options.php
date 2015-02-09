@@ -1,11 +1,11 @@
 <div class="wrap" id="of_container">
 
 	<div id="of-popup-save" class="of-save-popup">
-		<div class="of-save-save">Options Updated</div>
+		<div class="of-save-save">Settings Updated</div>
 	</div>
 	
 	<div id="of-popup-reset" class="of-save-popup">
-		<div class="of-save-reset">Options Reset</div>
+		<div class="of-save-reset">Settings Reset</div>
 	</div>
 	
 	<div id="of-popup-fail" class="of-save-popup">
@@ -21,8 +21,8 @@
 		<div id="header">
 		
 			<div class="logo">
-				<h2><?php echo THEMENAME; ?></h2>
-				<span><?php echo ('v'. THEMEVERSION); ?></span>
+				<h2>WP Screen Lock</h2>
+				<span>v1.0.1 Developed by <a href="http://themeaxe.com">ThemeAxe</a></span>
 			</div>
 		
 			<div id="js-warning">Warning- This options panel will not work properly without javascript!</div>
@@ -75,4 +75,4 @@
 	<div style="clear:both;"></div>
 
 </div><!--wrap-->
-<div class="smof_footer_info">ThemeAxe options <strong><?php echo SMOF_VERSION; ?></strong></div>
+<div class="smof_footer_info"><a href="http://themeaxe.com">ThemeAxe</a> options <strong><?php echo SMOF_VERSION; ?></strong></div>
